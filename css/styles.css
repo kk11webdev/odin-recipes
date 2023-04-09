@@ -1,10 +1,16 @@
 h1 {
     font-family: Arial, Helvetica, sans-serif;
-    color: brown;
+    color: rgba(165, 42, 42, 0.625);
+    font-size: 40px;
 }
 
 #odin {
     font-size: 50px;
+    color: brown;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 img {
